@@ -4,6 +4,9 @@ Abaqus input file generator for concrete damaged plasticity model
 Developer: Youngbin LIM <br>
 Contact: lyb0684@naver.com
 
+![Fig1](https://github.com/user-attachments/assets/8ec4a0eb-8e52-40cf-a302-4d50634eec83)
+
+
 Installation
 --------------------------
 Download contents in the following link. Unzip the file and click CoMat.exe to run the program. You can create short cut to the CoMat.exe file<br>
