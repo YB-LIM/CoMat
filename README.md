@@ -14,7 +14,12 @@ https://drive.google.com/file/d/1-bQdpMb16NsQRgd8lTgIrfCKwTwcFZdq/view?usp=shari
 
 Demo
 --------------------------
- https://www.youtube.com/watch?v=c1Luviyw51A
+https://www.youtube.com/watch?v=c1Luviyw51A
+
+Citation
+--------------------------
+Please cite the ResearchGate article <br>
+Lim Y., 2024, CoMat - Abaqus input file generator for concrete damaged plasticity model, DOI: 10.13140/RG.2.2.25509.10725
 
 Disclaimer
 --------------------------
