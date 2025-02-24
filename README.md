@@ -12,6 +12,10 @@ Installation
 Download contents in the following link. Unzip the file and click CoMat.exe to run the program. You can create short cut to the CoMat.exe file<br>
 https://drive.google.com/file/d/1-bQdpMb16NsQRgd8lTgIrfCKwTwcFZdq/view?usp=sharing
 
+Technical paper
+--------------------------
+https://www.researchgate.net/publication/379119938_CoMat_-Abaqus_input_file_generator_for_concrete_damaged_plasticity_model
+
 Demo
 --------------------------
 https://www.youtube.com/watch?v=c1Luviyw51A
